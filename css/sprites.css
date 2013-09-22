@@ -1,0 +1,63 @@
+.icon-page, .icon-users, .icon-category, .icon-comments, .icon-create-post, .icon-menu{
+	background: url(sprites.png) no-repeat;
+	display:inline-block;
+	width: 256px !important;
+	height: 256px !important;
+	zoom:60%;
+	cursor:pointer;
+	font-size: 2.75em;
+	text-align:center;
+	line-height:13em;
+
+}
+.icon-page:hover, .icon-users:hover, .icon-category:hover, .icon-comments:hover, .icon-create-post:hover, .icon-menu:hover{
+	background-color:#000;
+}
+.icon-page{
+	background-position: -916px -297px ;
+}
+
+.icon-page:hover{
+	background-position: -618px -307px ;
+}
+
+.icon-users{
+	background-position: -916px -597px ;
+}
+
+.icon-users:hover{
+	background-position: -618px -619px ;
+}
+
+.icon-category{
+	background-position: -906px -23px ;
+}
+
+.icon-category:hover{
+	background-position: -620px -14px ;
+}
+
+.icon-comments{
+	background-position: -326px -625px ;
+}
+
+.icon-comments:hover{
+	background-position: -20px -629px ;
+}
+
+.icon-create-post{
+	background-position: -334px -289px ;
+}
+
+.icon-create-post:hover{
+	background-position: -2px -291px ;
+}
+
+.icon-menu{
+	background-position: -334px -16px ;
+}
+
+.icon-menu:hover{
+	background-position: 0 0;
+}
+
